@@ -2,10 +2,10 @@ public class Main{
     public static void main(String[] args){
 
         System.out.println("Enter Marks of subjects:");
-        int a=56;
-        int b=89;
-        int c=96;
-        int sum = ((a+b+c)/3);
+        float a=56;
+        float b=89;
+        float c=96;
+        float sum = ((a+b+c)/30);
         System.out.println(sum);
     }
 }
